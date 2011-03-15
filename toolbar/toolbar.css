@@ -1,0 +1,32 @@
+#dt {
+	padding: 0 .5em;
+}
+
+#selector {
+	position: relative;
+	top: -.2em;
+	width: 12em;
+	margin-left: .3em;
+}
+.ui-icon-opacity {
+	background-image: url('toolbar.png');
+	background-size: 36px 18px;
+}
+.ui-icon-point {
+	background-image: url('toolbar.png');
+	background-position: -18px;
+	background-size: 36px 18px;
+}
+
+#tools {
+	margin-left: 2em;
+}
+
+#right {
+	position: absolute;
+	right: 1.5em;
+	top: .4em;
+}
+.ui-btn-icon-left {
+	top: .4em;
+}
